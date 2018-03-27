@@ -1,0 +1,7 @@
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\CSharpCourses\bin\Debug\CSharpCourses.exe.config
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\CSharpCourses\bin\Debug\CSharpCourses.exe
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\CSharpCourses\bin\Debug\CSharpCourses.pdb
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\CSharpCourses\obj\Debug\CSharpCourses.csprojResolveAssemblyReference.cache
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\CSharpCourses\obj\Debug\CSharpCourses.csproj.CoreCompileInputs.cache
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\CSharpCourses\obj\Debug\CSharpCourses.exe
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\CSharpCourses\obj\Debug\CSharpCourses.pdb
