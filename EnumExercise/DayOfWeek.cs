@@ -23,7 +23,7 @@ namespace EnumExercise
                 // Convert that enum string name into its underlying value
                 int dayValue = (int)day;
                 // Display it to console
-                Console.WriteLine(dayValue);
+                Console.WriteLine($"The underlying value for {day} is: {dayValue}");
             }
             catch (Exception)
             {
