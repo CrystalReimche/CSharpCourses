@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCourses", "CSharpCour
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsExercise", "GenericsExercise\GenericsExercise.csproj", "{92411630-E490-4E5C-9672-D26DDE58B474}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumExercise", "EnumExercise\EnumExercise.csproj", "{0D731489-0AEA-4B19-9987-B24EB5E05290}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{92411630-E490-4E5C-9672-D26DDE58B474}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92411630-E490-4E5C-9672-D26DDE58B474}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92411630-E490-4E5C-9672-D26DDE58B474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D731489-0AEA-4B19-9987-B24EB5E05290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D731489-0AEA-4B19-9987-B24EB5E05290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D731489-0AEA-4B19-9987-B24EB5E05290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D731489-0AEA-4B19-9987-B24EB5E05290}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

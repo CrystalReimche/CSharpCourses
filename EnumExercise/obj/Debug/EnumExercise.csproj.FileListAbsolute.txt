@@ -1,0 +1,7 @@
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\EnumExercise\bin\Debug\EnumExercise.exe.config
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\EnumExercise\bin\Debug\EnumExercise.exe
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\EnumExercise\bin\Debug\EnumExercise.pdb
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\EnumExercise\obj\Debug\EnumExercise.csprojResolveAssemblyReference.cache
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\EnumExercise\obj\Debug\EnumExercise.csproj.CoreCompileInputs.cache
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\EnumExercise\obj\Debug\EnumExercise.exe
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\EnumExercise\obj\Debug\EnumExercise.pdb
