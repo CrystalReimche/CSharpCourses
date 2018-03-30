@@ -1,7 +1,0 @@
-E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\GenericsExercise\bin\Debug\GenericsExercise.exe.config
-E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\GenericsExercise\bin\Debug\GenericsExercise.exe
-E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\GenericsExercise\bin\Debug\GenericsExercise.pdb
-E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\GenericsExercise\obj\Debug\GenericsExercise.csprojResolveAssemblyReference.cache
-E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\GenericsExercise\obj\Debug\GenericsExercise.csproj.CoreCompileInputs.cache
-E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\GenericsExercise\obj\Debug\GenericsExercise.exe
-E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\GenericsExercise\obj\Debug\GenericsExercise.pdb

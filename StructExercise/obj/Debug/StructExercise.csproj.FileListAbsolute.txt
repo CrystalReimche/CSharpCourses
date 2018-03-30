@@ -1,0 +1,7 @@
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\StructExercise\bin\Debug\StructExercise.exe.config
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\StructExercise\bin\Debug\StructExercise.exe
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\StructExercise\bin\Debug\StructExercise.pdb
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\StructExercise\obj\Debug\StructExercise.csprojResolveAssemblyReference.cache
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\StructExercise\obj\Debug\StructExercise.csproj.CoreCompileInputs.cache
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\StructExercise\obj\Debug\StructExercise.exe
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\StructExercise\obj\Debug\StructExercise.pdb
