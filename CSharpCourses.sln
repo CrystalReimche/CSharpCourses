@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda", "Lambda\Lambda.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutputExercise", "InputOutputExercise\InputOutputExercise.csproj", "{D2C4D57F-119A-471F-99C4-19E813327438}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeExercise", "DateTimeExercise\DateTimeExercise.csproj", "{BE6D0B76-091F-4F93-A48E-310EEC0622FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D2C4D57F-119A-471F-99C4-19E813327438}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2C4D57F-119A-471F-99C4-19E813327438}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2C4D57F-119A-471F-99C4-19E813327438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6D0B76-091F-4F93-A48E-310EEC0622FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6D0B76-091F-4F93-A48E-310EEC0622FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6D0B76-091F-4F93-A48E-310EEC0622FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6D0B76-091F-4F93-A48E-310EEC0622FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
