@@ -1,0 +1,7 @@
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\InputOutputExercise\bin\Debug\InputOutputExercise.exe.config
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\InputOutputExercise\bin\Debug\InputOutputExercise.exe
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\InputOutputExercise\bin\Debug\InputOutputExercise.pdb
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\InputOutputExercise\obj\Debug\InputOutputExercise.csprojResolveAssemblyReference.cache
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\InputOutputExercise\obj\Debug\InputOutputExercise.csproj.CoreCompileInputs.cache
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\InputOutputExercise\obj\Debug\InputOutputExercise.exe
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\InputOutputExercise\obj\Debug\InputOutputExercise.pdb
