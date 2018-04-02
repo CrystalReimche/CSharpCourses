@@ -15,10 +15,10 @@ namespace InputOutputExercise
             string userInput = Console.ReadLine();
 
             // Logging userInput into IOExercise.txt file
-            File.WriteAllText(@"E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\InputOutputExercise\IOExercise.txt", userInput);
+            File.WriteAllText(@"..\Logs\IOExercise.txt", userInput);
 
             // Reading userInput number from IOExercise.txt file
-            string answer = File.ReadAllText(@"E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\InputOutputExercise\IOExercise.txt");
+            string answer = File.ReadAllText(@"..\Logs\IOExercise.txt");
 
             // Displaying answer to console
             Console.WriteLine($"Your number was {answer}!");

@@ -1,6 +1,7 @@
 E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\DateTimeExercise\bin\Debug\DateTimeExercise.exe.config
 E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\DateTimeExercise\bin\Debug\DateTimeExercise.exe
 E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\DateTimeExercise\bin\Debug\DateTimeExercise.pdb
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\DateTimeExercise\obj\Debug\DateTimeExercise.csprojResolveAssemblyReference.cache
 E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\DateTimeExercise\obj\Debug\DateTimeExercise.csproj.CoreCompileInputs.cache
 E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\DateTimeExercise\obj\Debug\DateTimeExercise.exe
 E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\DateTimeExercise\obj\Debug\DateTimeExercise.pdb

@@ -1,7 +1,6 @@
 E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\Lambda\bin\Debug\Lambda.exe.config
 E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\Lambda\bin\Debug\Lambda.exe
 E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\Lambda\bin\Debug\Lambda.pdb
-E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\Lambda\obj\Debug\Lambda.csprojResolveAssemblyReference.cache
 E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
 E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\Lambda\obj\Debug\Lambda.exe
 E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\Lambda\obj\Debug\Lambda.pdb
