@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutputExercise", "Inpu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeExercise", "DateTimeExercise\DateTimeExercise.csproj", "{BE6D0B76-091F-4F93-A48E-310EEC0622FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstVarChainConstructors", "ConstVarChainConstructors\ConstVarChainConstructors.csproj", "{4A872E7E-B41B-411A-906E-084F838BAA26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BE6D0B76-091F-4F93-A48E-310EEC0622FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE6D0B76-091F-4F93-A48E-310EEC0622FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE6D0B76-091F-4F93-A48E-310EEC0622FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A872E7E-B41B-411A-906E-084F838BAA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A872E7E-B41B-411A-906E-084F838BAA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A872E7E-B41B-411A-906E-084F838BAA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A872E7E-B41B-411A-906E-084F838BAA26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

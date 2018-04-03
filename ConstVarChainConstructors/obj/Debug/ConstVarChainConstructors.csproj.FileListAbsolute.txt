@@ -1,0 +1,7 @@
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\ConstVarChainConstructors\bin\Debug\ConstVarChainConstructors.exe.config
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\ConstVarChainConstructors\bin\Debug\ConstVarChainConstructors.exe
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\ConstVarChainConstructors\bin\Debug\ConstVarChainConstructors.pdb
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\ConstVarChainConstructors\obj\Debug\ConstVarChainConstructors.csprojResolveAssemblyReference.cache
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\ConstVarChainConstructors\obj\Debug\ConstVarChainConstructors.csproj.CoreCompileInputs.cache
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\ConstVarChainConstructors\obj\Debug\ConstVarChainConstructors.exe
+E:\Coding\Visual Studio\Projects\The Tech Academy\CSharpCourses\ConstVarChainConstructors\obj\Debug\ConstVarChainConstructors.pdb
